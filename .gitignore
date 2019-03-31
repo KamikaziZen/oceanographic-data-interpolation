@@ -1,0 +1,8 @@
+*__pycache__
+_lons.pkl
+_lats.pkl
+DEFAULT_*
+datafile.dat
+maskfile.dat
+timefile.dat
+timeline.mat
